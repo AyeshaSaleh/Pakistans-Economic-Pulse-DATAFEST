@@ -24,10 +24,3 @@ This project goes beyond static reporting to forecast economic trends by integra
 2.  **Exogenous Variable Selection:** Using Trade and Climate data as exogenous features in the SARIMAX model to capture external shocks.
 3.  **Trend Analysis:** Visualizing industrial growth patterns against global and local economic shifts.
 
-## 📂 Repository Structure
-```text
-├── data/               # Processed QIM, Climate, and Trade datasets
-├── models/             # SARIMAX implementation scripts
-├── dashboards/         # Power BI .pbix files and screenshots
-├── notebooks/          # Exploratory Data Analysis (EDA)
-└── README.md
